@@ -23,7 +23,7 @@ msgstr ""
 #: data/about_dialog.ui.in:6
 #: data/io.github.fkinoshita.Telegraph.metainfo.xml.in.in:11
 msgid "Write and decode morse"
-msgstr "Morse kodu yazın ve çözümleyin"
+msgstr "Mors kodu yazın ve çözümleyin"
 
 #. Add your name to the translator credits list
 #: data/about_dialog.ui.in:10
@@ -41,7 +41,7 @@ msgstr "GNOME için bir Mors çeviricisi"
 
 #: data/io.github.fkinoshita.Telegraph.desktop.in.in:13
 msgid "morse;code;translator;translate;"
-msgstr "mors;kodu;morse;çevirici;çevir;"
+msgstr "mors;kodu;mors;çevirici;çevir;"
 
 #: data/io.github.fkinoshita.Telegraph.gschema.xml.in:6
 msgid "Window Size"
@@ -56,8 +56,8 @@ msgid ""
 "Telegraph is a simple Morse translator, start typing your message to see the "
 "resulting Morse code and vice versa."
 msgstr ""
-"Telgraf, basit bir Morse çevirmenidir. Mesajınızı yazmaya başladığınızda "
-"kendiliğinden Morse koduna dönüştürür ve tersi için de geçerlidir."
+"Telgraf, basit bir Mors çevirmenidir. Mesajınızı yazmaya başladığınızda "
+"kendiliğinden Mors koduna dönüştürür ve tersi için de geçerlidir."
 
 #: data/io.github.fkinoshita.Telegraph.metainfo.xml.in.in:37
 msgid "Main window"
@@ -84,7 +84,7 @@ msgstr "Ana Menü"
 
 #: data/ui/window.ui:40
 msgid "Message"
-msgstr "Mesaj"
+msgstr "İleti"
 
 #: data/ui/window.ui:86 data/ui/window.ui:159
 msgid "Copy to Clipboard"
@@ -104,7 +104,7 @@ msgstr "Telgraf _Hakkında"
 
 #: src/window.py:106
 msgid "Message copied"
-msgstr "Mesaj kopyalandı"
+msgstr "İleti kopyalandı"
 
 #: src/window.py:111
 msgid "Morse code copied"
